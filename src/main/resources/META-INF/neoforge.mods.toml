@@ -5,13 +5,16 @@ issueTrackerURL="https://github.com/Achilleus-1/Akis-NeoThunderingImmersed/issue
 
 [[mods]]
 modId="immersivethunder"
-version="1.3.0-neoforge.1"
+version="1.3.0-neoforge.2"
 displayName="Neo Thundering Immersed"
-displayURL="https://github.com/Achilleus-1/Akis-NeoThunderingImmersed"
-logoFile="assets/immersivethunder/icon.png"
+displayURL="https://linktr.ee/achilleus_"
+logoFile="assets/achilleus/achilleus-logo-white.png"
 authors="Achilleus (Achilleus-1), NeoForge port and maintenance"
 credits="netcatgirl, original Immersive Thunder"
-description='''Distance-based thunder sounds. NeoForge 1.21.1 port and rebranding by Achilleus, based on Immersive Thunder by netcatgirl.'''
+description='''Product of Achilleus.
+https://linktr.ee/achilleus_
+
+Distance-based thunder sounds. NeoForge 1.21.1 port and rebranding by Achilleus, based on Immersive Thunder by netcatgirl.'''
 
 [[dependencies.immersivethunder]]
 modId="neoforge"

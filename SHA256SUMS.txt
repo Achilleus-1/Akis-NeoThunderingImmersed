@@ -1,2 +1,2 @@
-74b0cb490ee86aff29524bae02664933e8f5a02b4b28c7c4a739c4ef8c81dfed  neo-thundering-immersed-1.21.1-1.3.0-neoforge.1-sources.jar
-6dfaff618b239026f060cdf3b71165a1d35760dc86ab1b04623169c2e475af66  neo-thundering-immersed-1.21.1-1.3.0-neoforge.1.jar
+f7581be79d534c6a9c86e14a3dceb1442094e25d4517cfb5aa081370e7ad00e7  neo-thundering-immersed-1.21.1-1.3.0-neoforge.2-sources.jar
+09d3b77c66d690a5f38a1a505a659b7e8a95642ccdd89dc626d9c18a5ff66d30  neo-thundering-immersed-1.21.1-1.3.0-neoforge.2.jar
