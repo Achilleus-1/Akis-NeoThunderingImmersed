@@ -1,12 +1,12 @@
 # Neo Thundering Immersed
 
-**[Product of Achilleus](https://linktr.ee/achilleus_)** — NeoForge port and maintenance by [Achilleus (Achilleus-1)](https://github.com/Achilleus-1).
+**[Product of Achilleus](https://linktr.ee/achilleus_)** — Created and maintained by [Achilleus (Achilleus-1)](https://github.com/Achilleus-1).
 
 Distance-based thunder sounds for the Minecraft client.
 
 ## Installation
 
-For **Minecraft 1.21.1**, **NeoForge 21.1.255**, and **Java 21**. Download `neo-thundering-immersed-1.21.1-1.3.0-neoforge.2.jar` from [Releases](https://github.com/Achilleus-1/Akis-NeoThunderingImmersed/releases/latest) and place it in your `mods` folder. Remove older copies first.
+For **Minecraft 1.21.1**, **NeoForge 21.1.255**, and **Java 21**. Download `neo-thundering-immersed-1.21.1-1.3.0-neoforge.3.jar` from [Releases](https://github.com/Achilleus-1/Akis-NeoThunderingImmersed/releases/latest) and place it in your `mods` folder. Remove older copies first.
 
 ## Development
 
@@ -16,9 +16,11 @@ Build with a Java 21 JDK: `./gradlew build` on Linux/macOS or `.\gradlew.bat bui
 
 Launch the development client with `./gradlew runClient` or `.\gradlew.bat runClient`. Mod information and Minecraft/NeoForge versions are configured in `gradle.properties`. GitHub Actions checks the build on pushes and pull requests.
 
-## Credits and license
+## Attribution
 
-Based on [Immersive Thunder](https://github.com/netcatgirl/ImmersiveThunder) by netcatgirl. Original copyright and license notices are retained in [LICENSE](LICENSE) and packaged resources. Port modifications are MIT licensed; Achilleus supplied the replacement branding.
+Ported from [Immersive Thunder](https://github.com/netcatgirl/ImmersiveThunder) by netcatgirl.
+
+Licensed under **MIT**; copyright and license notices are included in [LICENSE](LICENSE) and packaged resources.
 
 ## Development and reuse
 

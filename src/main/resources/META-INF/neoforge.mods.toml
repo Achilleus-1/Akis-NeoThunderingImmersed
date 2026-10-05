@@ -10,11 +10,11 @@ displayName="${mod_name}"
 displayURL="https://linktr.ee/achilleus_"
 logoFile="assets/achilleus/achilleus-logo-white.png"
 authors="${mod_authors}"
-credits="netcatgirl, original Immersive Thunder"
+credits="Ported from Immersive Thunder by netcatgirl."
 description='''Product of Achilleus.
 https://linktr.ee/achilleus_
 
-Distance-based thunder sounds. NeoForge 1.21.1 port and rebranding by Achilleus, based on Immersive Thunder by netcatgirl.'''
+Distance-based thunder sounds for the Minecraft client. Created and maintained by Achilleus for NeoForge 1.21.1.'''
 
 [[dependencies.${mod_id}]]
 modId="neoforge"
