@@ -16,8 +16,8 @@ import org.slf4j.LoggerFactory;
 
 public class Constants {
     public static final String MOD_ID = "immersivethunder";
-    public static final String MOD_NAME = "Neo Thundering Immersed";
-    public static final Logger LOG = LoggerFactory.getLogger((String)"Neo Thundering Immersed");
+    public static final String MOD_NAME = "Aki's Neo Thundering Immsersed Reforge";
+    public static final Logger LOG = LoggerFactory.getLogger((String)"Aki's Neo Thundering Immsersed Reforge");
     public static final ResourceLocation THUNDER_CLOSE = ResourceLocation.fromNamespaceAndPath((String)"immersivethunder", (String)"thunder_close");
     public static SoundEvent ENTITY_LIGHTNING_BOLT_THUNDER_CLOSE = SoundEvent.createVariableRangeEvent((ResourceLocation)THUNDER_CLOSE);
     public static final ResourceLocation THUNDER_MEDIUM = ResourceLocation.fromNamespaceAndPath((String)"immersivethunder", (String)"thunder_medium");

@@ -9,7 +9,7 @@ import com.netcatgirl.immersivethunder.platform.Services;
 public class CommonClass {
     public static void init() {
         if (Services.PLATFORM.isModLoaded("immersivethunder")) {
-            Constants.LOG.info("Neo Thundering Immersed loaded");
+            Constants.LOG.info("Aki's Neo Thundering Immsersed Reforge loaded");
         }
     }
 }

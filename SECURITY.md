@@ -4,7 +4,7 @@ Security fixes apply to the current `main` branch. These projects are educationa
 or community software; review their documented limitations before use.
 
 Report a suspected credential or privacy exposure privately through
-[GitHub vulnerability reporting](https://github.com/Achilleus-1/Akis-NeoThunderingImmersed/security/advisories/new).
+[GitHub vulnerability reporting](https://github.com/Achilleus-1/Akis-NeoThunderingImmsersed-Reforge/security/advisories/new).
 Include the affected file/revision, impact, and reproduction steps. Do not paste
 live credentials or personal records into public issues or pull requests.
 
